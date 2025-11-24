@@ -1,4 +1,4 @@
-# Proyecto **Tub-Bot**
+# Proyecto Tub-Bot
 Repositorio para el Proyecto "Tub-Bot" correspondiente a Introducción a Ingeniería Electrónica y Taller de Electrónica.
 
 ## **Integrantes**
