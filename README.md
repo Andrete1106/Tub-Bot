@@ -1,7 +1,7 @@
 # Proyecto Tub-Bot
 Repositorio para el Proyecto "Tub-Bot" correspondiente a las materias de:
--Introducción a Ingeniería Electrónica 
--Taller de Electrónica
+- Introducción a Ingeniería Electrónica 
+- Taller de Electrónica
 
 **Universidad Nacional de Colombia**
 
