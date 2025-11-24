@@ -1,10 +1,14 @@
 # Proyecto Tub-Bot
-Repositorio para el Proyecto "Tub-Bot" correspondiente a Introducción a Ingeniería Electrónica y Taller de Electrónica.
+Repositorio para el Proyecto "Tub-Bot" correspondiente a las materias de:
+-Introducción a Ingeniería Electrónica 
+-Taller de Electrónica
+
+**Universidad Nacional de Colombia**
 
 ## **Integrantes**
-- Andres David Hincapié Álvarez  
-- Samuel Alejandro Bulla Fiquitiva
-- Juan Jose Aleman Martinez
+- Andres David Hincapié Álvarez (Ingeniería Electrónica)  
+- Samuel Alejandro Bulla Fiquitiva (Ingeniería Electrónica)
+- Juan Jose Aleman Martinez (Ingeniería Electrónica)
 - Camilo Triana
-- Ricardo Javier Rivas Sabogal
-- Luis Armando Berrocal Estrada 
+- Ricardo Javier Rivas Sabogal (Ingeniería Electrónica)
+- Luis Armando Berrocal Estrada (Ingeniería Electrónica)
