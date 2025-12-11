@@ -9,6 +9,6 @@ Repositorio para el Proyecto "Tub-Bot" correspondiente a las materias de:
 - Andres David Hincapié Álvarez (Ingeniería Electrónica)  
 - Samuel Alejandro Bulla Fiquitiva (Ingeniería Electrónica)
 - Juan Jose Aleman Martinez (Ingeniería Electrónica)
-- Camilo Triana (Ingeniería Mecatrónica)
+- Camilo Andrés Triana Ortiz (Ingeniería Mecatrónica)
 - Ricardo Javier Rivas Sabogal (Ingeniería Electrónica)
 - Luis Armando Berrocal Estrada (Ingeniería Electrónica)
