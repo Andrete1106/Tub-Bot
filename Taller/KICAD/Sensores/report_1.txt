@@ -1,0 +1,4 @@
+Actualizado Conn_01x05 de J4_coneccion_esp a J4_coneccion_esp1.
+Actualizado Conn_01x02 de J_pwr a J_pwr1.
+Anotación completada.
+Anotación completada.
